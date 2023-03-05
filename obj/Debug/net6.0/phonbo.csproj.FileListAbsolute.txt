@@ -1,0 +1,15 @@
+D:\files\phone\obj\Debug\net6.0\phonbo.csproj.AssemblyReference.cache
+D:\files\phone\obj\Debug\net6.0\phonbo.GeneratedMSBuildEditorConfig.editorconfig
+D:\files\phone\obj\Debug\net6.0\phonbo.AssemblyInfoInputs.cache
+D:\files\phone\obj\Debug\net6.0\phonbo.AssemblyInfo.cs
+D:\files\phone\obj\Debug\net6.0\phonbo.csproj.CoreCompileInputs.cache
+D:\files\phone\bin\Debug\net6.0\phonbo.exe
+D:\files\phone\bin\Debug\net6.0\phonbo.deps.json
+D:\files\phone\bin\Debug\net6.0\phonbo.runtimeconfig.json
+D:\files\phone\bin\Debug\net6.0\phonbo.dll
+D:\files\phone\bin\Debug\net6.0\phonbo.pdb
+D:\files\phone\obj\Debug\net6.0\phonbo.dll
+D:\files\phone\obj\Debug\net6.0\refint\phonbo.dll
+D:\files\phone\obj\Debug\net6.0\phonbo.pdb
+D:\files\phone\obj\Debug\net6.0\phonbo.genruntimeconfig.cache
+D:\files\phone\obj\Debug\net6.0\ref\phonbo.dll
